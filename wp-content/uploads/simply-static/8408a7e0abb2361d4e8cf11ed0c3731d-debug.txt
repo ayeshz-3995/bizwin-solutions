@@ -703,3 +703,5 @@
 [2024-06-11 08:56:37] [class-ss-archive-creation-job.php:324] Status message: [done] Done! Finished in 00:04:02
 [2024-06-11 08:56:37] [class-ss-archive-creation-job.php:384] Error: (1) Maximum execution time of 120 seconds exceeded in <b>D:\Xampp\htdocs\bizwin-solutions\wp-includes\class-wpdb.php</b> on line <b>2349</b>
 [2024-06-11 08:56:37] [class-ss-archive-creation-job.php:324] Status message: [error] Error: (1) Maximum execution time of 120 seconds exceeded in <b>D:\Xampp\htdocs\bizwin-solutions\wp-includes\class-wpdb.php</b> on line <b>2349</b>
+[2024-06-11 09:21:19] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/bizwin-solutions
+[2024-06-11 09:21:20] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/bizwin-solutions

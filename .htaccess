@@ -18,7 +18,7 @@ RewriteRule . /bizwin-solutions/index.php [L]
 # The directives (lines) between "BEGIN Simply Static" and "END Simply Static" are
 # dynamically generated, and should only be modified via WordPress filters.
 # Any changes to the directives between these markers will be overwritten.
-<Files "D:\Xampp\htdocs\bizwin-solutions/wp-content/uploads\simply-static\8408a7e0abb2361d4e8cf11ed0c3731d-debug.txt">
+<Files "D:\Xampp\htdocs\bizwin-solutions/wp-content/uploads\simply-static\ecc58f5812ea499649143e29c70c000d-debug.txt">
 require all denied
 require host localhost
 </Files>
